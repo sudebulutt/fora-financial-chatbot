@@ -57,5 +57,6 @@ LangGraph orkestrasyonunda koordineli çalışan **7 Uzman Ajan**:
 ## 👥 Proje Ekibi & İletişim
 
 **Intertech** staj programı kapsamında 11 kişilik ekip tarafından geliştirilmiştir.
+Sude Nur Bulut
 
 
